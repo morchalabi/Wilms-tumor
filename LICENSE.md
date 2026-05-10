@@ -1,4 +1,4 @@
-#Copyright Notice and License#
+Copyright Notice and License
 
 Copyright © Morteza Chalabi 2022-2026. All Rights Reserved.
 
