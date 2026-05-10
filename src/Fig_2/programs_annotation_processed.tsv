@@ -1,0 +1,241 @@
+factor_sample	program	sample	condition
+2_neoadjuvant/W009	noise	W009	neoadjuvant
+9_neoadjuvant/W010	striated myocyte	W010	neoadjuvant
+2_neoadjuvant/W001	striated myocyte	W001	neoadjuvant
+3_neoadjuvant/W009	noise	W009	neoadjuvant
+1_neoadjuvant/W010	striated myocyte	W010	neoadjuvant
+7_neoadjuvant/W002	podocyte	W002	neoadjuvant
+5_neoadjuvant/W002	podocyte	W002	neoadjuvant
+5_neoadjuvant/W003	podocyte	W003	neoadjuvant
+4_neoadjuvant/W009	striated myocyte	W009	neoadjuvant
+3_untreated/W132	striated myocyte	W132	untreated
+8_neoadjuvant/W441	smooth myocyte	W441	neoadjuvant
+6_untreated/W495	smooth myocyte	W495	untreated
+9_neoadjuvant/W009	smooth myocyte	W009	neoadjuvant
+2_neoadjuvant/W010	smooth myocyte	W010	neoadjuvant
+4_neoadjuvant/W180	smooth myocyte	W180	neoadjuvant
+3_neoadjuvant/W944	smooth myocyte	W944	neoadjuvant
+2_neoadjuvant/W370	smooth myocyte	W370	neoadjuvant
+6_untreated/W040	smooth myocyte	W040	untreated
+2_neoadjuvant/W180	smooth myocyte	W180	neoadjuvant
+4_neoadjuvant/W944	smooth myocyte	W944	neoadjuvant
+8_neoadjuvant/W180	smooth myocyte	W180	neoadjuvant
+10_neoadjuvant/W944	smooth myocyte	W944	neoadjuvant
+7_neoadjuvant/W944	smooth myocyte	W944	neoadjuvant
+2_neoadjuvant/W944	smooth myocyte	W944	neoadjuvant
+1_neoadjuvant/W944	smooth myocyte	W944	neoadjuvant
+6_neoadjuvant/W944	smooth myocyte	W944	neoadjuvant
+8_neoadjuvant/W944	smooth myocyte	W944	neoadjuvant
+1_neoadjuvant/W180	smooth myocyte	W180	neoadjuvant
+10_neoadjuvant/W180	smooth myocyte	W180	neoadjuvant
+3_neoadjuvant/W180	smooth myocyte	W180	neoadjuvant
+5_neoadjuvant/W180	smooth myocyte	W180	neoadjuvant
+10_neoadjuvant/W050	smooth myocyte	W050	neoadjuvant
+1_neoadjuvant/W003	smooth myocyte	W003	neoadjuvant
+7_neoadjuvant/W003	smooth myocyte	W003	neoadjuvant
+1_neoadjuvant/W006	noise	W006	neoadjuvant
+7_neoadjuvant/W010	noise	W010	neoadjuvant
+8_untreated/W004	PAX3+ myogenic precursors	W004	untreated
+2_neoadjuvant/W050	PAX3+ myogenic precursors	W050	neoadjuvant
+4_untreated/W495	PAX3+ myogenic precursors	W495	untreated
+5_neoadjuvant/W006	noise	W006	neoadjuvant
+2_untreated/W132	PAX3+ myogenic precursors	W132	untreated
+3_neoadjuvant/W370	PAX3+ myogenic precursors	W370	neoadjuvant
+8_untreated/W495	PAX3+ myogenic precursors	W495	untreated
+5_neoadjuvant/W010	smooth myocyte	W010	neoadjuvant
+6_neoadjuvant/W010	smooth myocyte	W010	neoadjuvant
+8_neoadjuvant/W001	smooth myocyte	W001	neoadjuvant
+6_neoadjuvant/W009	smooth myocyte	W009	neoadjuvant
+8_neoadjuvant/W009	smooth myocyte	W009	neoadjuvant
+1_neoadjuvant/W001	smooth myocyte	W001	neoadjuvant
+3_neoadjuvant/W010	smooth myocyte	W010	neoadjuvant
+3_untreated/W495	smooth myocyte	W495	untreated
+6_neoadjuvant/W001	smooth myocyte	W001	neoadjuvant
+10_neoadjuvant/W001	smooth myocyte	W001	neoadjuvant
+1_neoadjuvant/W009	smooth myocyte	W009	neoadjuvant
+9_neoadjuvant/W050	smooth myocyte	W050	neoadjuvant
+3_neoadjuvant/W002	smooth myocyte	W002	neoadjuvant
+2_untreated/W008	smooth myocyte	W008	untreated
+4_untreated/W040	smooth myocyte	W040	untreated
+8_untreated/W007	smooth myocyte	W007	untreated
+1_untreated/W612	smooth myocyte	W612	untreated
+2_untreated/W005	smooth myocyte	W005	untreated
+1_untreated/W241	smooth myocyte	W241	untreated
+10_neoadjuvant/W003	smooth myocyte	W003	neoadjuvant
+9_untreated/W012	smooth myocyte	W012	untreated
+4_neoadjuvant/W050	smooth myocyte	W050	neoadjuvant
+10_untreated/W495	smooth myocyte	W495	untreated
+10_untreated/W004	smooth myocyte	W004	untreated
+7_untreated/W007	smooth myocyte	W007	untreated
+1_untreated/W132	smooth myocyte	W132	untreated
+3_neoadjuvant/W001	smooth myocyte	W001	neoadjuvant
+9_neoadjuvant/W001	smooth myocyte	W001	neoadjuvant
+3_neoadjuvant/W184	smooth myocyte	W184	neoadjuvant
+7_neoadjuvant/W006	smooth myocyte	W006	neoadjuvant
+5_neoadjuvant/W370	smooth myocyte	W370	neoadjuvant
+4_neoadjuvant/W003	tubular	W003	neoadjuvant
+1_neoadjuvant/W050	tubular	W050	neoadjuvant
+10_neoadjuvant/W006	tubular	W006	neoadjuvant
+8_neoadjuvant/W050	tubular	W050	neoadjuvant
+7_untreated/W040	tubular	W040	untreated
+2_neoadjuvant/W002	tubular	W002	neoadjuvant
+1_untreated/W005	tubular	W005	untreated
+7_untreated/W132	tubular	W132	untreated
+10_untreated/W007	tubular	W007	untreated
+8_untreated/W241	tubular	W241	untreated
+8_neoadjuvant/W010	connecting tubule	W010	neoadjuvant
+5_untreated/W004	connecting tubule	W004	untreated
+10_untreated/W008	connecting tubule	W008	untreated
+8_neoadjuvant/W370	connecting tubule	W370	neoadjuvant
+6_untreated/W007	connecting tubule	W007	untreated
+2_neoadjuvant/W006	connecting tubule	W006	neoadjuvant
+2_untreated/W495	connecting tubule	W495	untreated
+3_neoadjuvant/W441	blastema 1	W441	neoadjuvant
+3_untreated/W241	blastema 1	W241	untreated
+10_neoadjuvant/W002	blastema 1	W002	neoadjuvant
+1_neoadjuvant/W002	blastema 1	W002	neoadjuvant
+4_neoadjuvant/W184	blastema 1	W184	neoadjuvant
+1_untreated/W340	blastema 1	W340	untreated
+1_neoadjuvant/W184	blastema 1	W184	neoadjuvant
+7_neoadjuvant/W184	blastema 1	W184	neoadjuvant
+6_neoadjuvant/W184	blastema 1	W184	neoadjuvant
+2_untreated/W040	blastema 1	W040	untreated
+9_untreated/W340	noise	W340	untreated
+2_untreated/W340	noise	W340	untreated
+3_untreated/W340	noise	W340	untreated
+7_untreated/W340	noise	W340	untreated
+7_untreated/W011	noise	W011	untreated
+9_untreated/W011	noise	W011	untreated
+9_untreated/W005	noise	W005	untreated
+6_untreated/W012	blastema 1	W012	untreated
+10_untreated/W612	blastema 1	W612	untreated
+9_untreated/W007	blastema 1	W007	untreated
+4_untreated/W005	blastema 1	W005	untreated
+2_untreated/W007	blastema 1	W007	untreated
+4_untreated/W241	blastema 1	W241	untreated
+6_untreated/W241	blastema 1	W241	untreated
+9_neoadjuvant/W944	noise	W944	neoadjuvant
+2_neoadjuvant/W441	noise	W441	neoadjuvant
+7_untreated/W495	blastema 1	W495	untreated
+2_untreated/W612	blastema 1	W612	untreated
+5_untreated/W008	blastema 1	W008	untreated
+7_untreated/W612	blastema 1	W612	untreated
+5_untreated/W011	blastema 1	W011	untreated
+1_neoadjuvant/W441	blastema 1	W441	neoadjuvant
+7_neoadjuvant/W441	blastema 1	W441	neoadjuvant
+6_untreated/W340	blastema 1	W340	untreated
+10_untreated/W012	blastema 1	W012	untreated
+10_untreated/W011	blastema 1	W011	untreated
+5_untreated/W012	blastema 1	W012	untreated
+4_neoadjuvant/W441	blastema 1	W441	neoadjuvant
+9_untreated/W612	blastema 1	W612	untreated
+7_untreated/W012	blastema 1	W012	untreated
+7_untreated/W008	blastema 1	W008	untreated
+9_untreated/W132	blastema 1	W132	untreated
+8_untreated/W008	blastema 1	W008	untreated
+9_untreated/W495	blastema 1	W495	untreated
+8_neoadjuvant/W003	blastema 1	W003	neoadjuvant
+8_untreated/W132	blastema 1	W132	untreated
+10_untreated/W340	blastema 1	W340	untreated
+9_neoadjuvant/W003	blastema 1	W003	neoadjuvant
+8_untreated/W005	blastema 1	W005	untreated
+3_neoadjuvant/W006	blastema 1	W006	neoadjuvant
+2_untreated/W004	blastema 1	W004	untreated
+10_neoadjuvant/W370	blastema 1	W370	neoadjuvant
+8_untreated/W040	blastema 1	W040	untreated
+9_untreated/W004	blastema 1	W004	untreated
+4_untreated/W007	blastema 1	W007	untreated
+4_untreated/W132	blastema 1	W132	untreated
+8_neoadjuvant/W184	G2M blastema 1	W184	neoadjuvant
+5_neoadjuvant/W441	G2M blastema 1	W441	neoadjuvant
+5_untreated/W612	G2M blastema 1	W612	untreated
+6_untreated/W005	G2M blastema 1	W005	untreated
+3_untreated/W012	G2M blastema 1	W012	untreated
+7_untreated/W241	G2M blastema 1	W241	untreated
+3_untreated/W007	G2M blastema 1	W007	untreated
+2_untreated/W011	G2M blastema 1	W011	untreated
+9_untreated/W040	G2M blastema 1	W040	untreated
+6_neoadjuvant/W006	G2M blastema 1	W006	neoadjuvant
+7_neoadjuvant/W370	G2M blastema 1	W370	neoadjuvant
+3_untreated/W008	G2M blastema 1	W008	untreated
+1_untreated/W495	G2M blastema 1	W495	untreated
+6_untreated/W004	G2M blastema 1	W004	untreated
+10_untreated/W132	G2M blastema 1	W132	untreated
+4_untreated/W340	G2M blastema 1	W340	untreated
+7_neoadjuvant/W050	G2M blastema 1	W050	neoadjuvant
+7_neoadjuvant/W001	G2M blastema 1	W001	neoadjuvant
+5_neoadjuvant/W009	G2M blastema 1	W009	neoadjuvant
+4_neoadjuvant/W010	G2M blastema 1	W010	neoadjuvant
+1_untreated/W008	smooth-myocyte precursors	W008	untreated
+2_untreated/W012	smooth-myocyte precursors	W012	untreated
+4_neoadjuvant/W006	smooth-myocyte precursors	W006	neoadjuvant
+2_untreated/W241	smooth-myocyte precursors	W241	untreated
+7_untreated/W005	smooth-myocyte precursors	W005	untreated
+8_untreated/W011	smooth-myocyte precursors	W011	untreated
+10_neoadjuvant/W441	noise	W441	neoadjuvant
+8_neoadjuvant/W002	smooth-myocyte precursors	W002	neoadjuvant
+4_neoadjuvant/W370	smooth-myocyte precursors	W370	neoadjuvant
+4_untreated/W004	smooth-myocyte precursors	W004	untreated
+1_untreated/W040	smooth-myocyte precursors	W040	untreated
+6_untreated/W132	smooth-myocyte precursors	W132	untreated
+4_untreated/W612	smooth-myocyte precursors	W612	untreated
+8_untreated/W340	smooth-myocyte precursors	W340	untreated
+7_neoadjuvant/W180	smooth-myocyte precursors	W180	neoadjuvant
+10_neoadjuvant/W184	smooth-myocyte precursors	W184	neoadjuvant
+7_untreated/W004	smooth-myocyte precursors	W004	untreated
+4_untreated/W008	smooth-myocyte precursors	W008	untreated
+1_untreated/W007	smooth-myocyte precursors	W007	untreated
+8_untreated/W012	smooth-myocyte precursors	W012	untreated
+6_neoadjuvant/W370	smooth-myocyte precursors	W370	neoadjuvant
+9_neoadjuvant/W184	smooth-myocyte precursors	W184	neoadjuvant
+6_untreated/W011	smooth-myocyte precursors	W011	untreated
+2_neoadjuvant/W003	smooth-myocyte precursors	W003	neoadjuvant
+6_neoadjuvant/W441	smooth-myocyte precursors	W441	neoadjuvant
+6_untreated/W612	smooth-myocyte precursors	W612	untreated
+5_neoadjuvant/W050	smooth-myocyte precursors	W050	neoadjuvant
+5_untreated/W495	smooth-myocyte precursors	W495	untreated
+5_neoadjuvant/W001	smooth-myocyte precursors	W001	neoadjuvant
+8_neoadjuvant/W006	smooth-myocyte precursors	W006	neoadjuvant
+10_neoadjuvant/W009	smooth-myocyte precursors	W009	neoadjuvant
+6_neoadjuvant/W003	nascent smooth myocyte	W003	neoadjuvant
+7_neoadjuvant/W009	nascent smooth myocyte	W009	neoadjuvant
+10_neoadjuvant/W010	nascent smooth myocyte	W010	neoadjuvant
+1_neoadjuvant/W370	nascent smooth myocyte	W370	neoadjuvant
+5_untreated/W132	nascent smooth myocyte	W132	untreated
+9_neoadjuvant/W006	nascent smooth myocyte	W006	neoadjuvant
+1_untreated/W004	nascent smooth myocyte	W004	untreated
+4_neoadjuvant/W001	nascent smooth myocyte	W001	neoadjuvant
+3_neoadjuvant/W050	nascent smooth myocyte	W050	neoadjuvant
+9_neoadjuvant/W180	nascent smooth myocyte	W180	neoadjuvant
+5_neoadjuvant/W944	nascent smooth myocyte	W944	neoadjuvant
+5_untreated/W005	noise	W005	untreated
+4_neoadjuvant/W002	noise	W002	neoadjuvant
+5_neoadjuvant/W184	noise	W184	neoadjuvant
+6_neoadjuvant/W050	noise	W050	neoadjuvant
+9_untreated/W241	noise	W241	untreated
+9_untreated/W008	noise	W008	untreated
+4_untreated/W011	noise	W011	untreated
+5_untreated/W340	noise	W340	untreated
+3_untreated/W040	noise	W040	untreated
+6_neoadjuvant/W002	noise	W002	neoadjuvant
+10_untreated/W040	noise	W040	untreated
+9_neoadjuvant/W370	blastema 2	W370	neoadjuvant
+3_untreated/W004	blastema 2	W004	untreated
+10_untreated/W005	blastema 2	W005	untreated
+1_untreated/W011	blastema 2	W011	untreated
+1_untreated/W012	blastema 2	W012	untreated
+10_untreated/W241	blastema 2	W241	untreated
+6_untreated/W008	blastema 2	W008	untreated
+8_untreated/W612	blastema 2	W612	untreated
+9_neoadjuvant/W002	blastema 2	W002	neoadjuvant
+5_untreated/W040	blastema 2	W040	untreated
+9_neoadjuvant/W441	S blastema 1	W441	neoadjuvant
+3_untreated/W612	S blastema 1	W612	untreated
+2_neoadjuvant/W184	S blastema 1	W184	neoadjuvant
+5_untreated/W007	S blastema 1	W007	untreated
+4_untreated/W012	S blastema 1	W012	untreated
+5_untreated/W241	S blastema 1	W241	untreated
+6_neoadjuvant/W180	noise	W180	neoadjuvant
+3_neoadjuvant/W003	noise	W003	neoadjuvant
+3_untreated/W005	S blastema 1	W005	untreated
+3_untreated/W011	S blastema 1	W011	untreated
